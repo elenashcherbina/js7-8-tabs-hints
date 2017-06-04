@@ -1,0 +1,27 @@
+.wrapper{
+  margin: 60px auto;
+  width: 40%;
+}
+
+
+form {
+  margin: 20px;
+  position: relative;
+}
+.first_name input{
+  margin-left: 20px;
+}
+.last_name input{
+  margin-left: 22px;
+}
+.address input{
+  margin-left: 37px;
+}
+.tooltip{
+  width: 120px;
+  font-size: 14px;
+  position: absolute;
+  right: 167px;
+  top:-20px;
+
+}
